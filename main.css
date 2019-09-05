@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background:papayawhip;
+}
+img{
+    width: 30em; 
+    height: 30em; 
+    border-radius:50px;
+    margin: 100px 190px 50px 168px;
+}
+.center{
+    margin-left: 16em;
+}
+.centerr{
+    margin-left: 21.5em; 
+}
+.flex{
+    display: inline-block;
+}
+table, th, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    color: #000000;
+    margin-left: 160px;
+    margin-top: 50px;
+}
+.shift{
+    padding: 0px 160px 0px 160px;
+}
+form{
+    padding: 0px 300px 30px;
+}
+input{
+    margin-left: 90px;
+    padding: 10px;
+    width: 500px;
+    
+}
+/* input[type=submit]:hover{
+    outline   : none;
+    color   : #FFF;
+} */
+textarea{
+    margin-left: 90px;
+    padding: 0px 10px;
+    width: 500px;
+    
+}
+#btn{
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+    background:rgb(12, 12, 202);
+    border:0px solid;
+    cursor: pointer;
+    color: #FFF;
+}
+/* button:hover,
+button:focus {
+  outline   : none;
+  color   : #fff;
+} */
+button, input, textarea{
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.tag{
+    margin-left: 90px;
+    
+}
+
+
+
+    
